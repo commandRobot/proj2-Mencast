@@ -1,0 +1,6 @@
+H_SpaceOutCrvsUsingKangaroo.gh
+Space out welding path dynamically using K2. Strength of slider needs to be fined tuned.
+
+H_MeshPreprocecessing.gh
+Takes in scanned mesh to remove ground surroundings, keeping just the top working surface.
+Also helps to divide mesh using input divison crv and extrapolate welding region.
